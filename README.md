@@ -1,1 +1,1 @@
-# theGrace-Hote-Management
+# theGrace-Hotel Management
